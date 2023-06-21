@@ -1,4 +1,4 @@
-# STACKGANS using tensorflow
+# StackGAN using tensorflow
 
 ![Architecture of StackGAN](a.png)
 
