@@ -3,7 +3,7 @@
 ![Architecture of StackGAN](a.png)
 
 I have used StackGAN to generate images from text. Architecture of StackGAN is as above. I have stopped the process after first stage of StackGAN but however it can be used for stage-2 as well.
-[Link][inde] to the weights generated
+[Link][identifier2] to the weights generated
 
 
 ## About dataset used
@@ -32,4 +32,4 @@ booktitle = {{ICCV}},
 ```
 
 [identifier]: https://drive.google.com/file/d/0B3y_msrWZaXLT1BZdVdycDY5TEE/view?resourcekey=0-sZrhftoEfdvHq6MweAeCjA
-[iden]: https://drive.google.com/drive/folders/1dZ09-ntDQ6edRQAyU0Jx4H8nx6UjHVEg?usp=drive_link
+[identifier2]: https://drive.google.com/drive/folders/1dZ09-ntDQ6edRQAyU0Jx4H8nx6UjHVEg?usp=drive_link
