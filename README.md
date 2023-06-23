@@ -2,7 +2,7 @@
 
 ![Architecture of StackGAN](a.png)
 
-I have used StackGAN to generate images from text. Architecture of StackGAN is as above. I have stopped the process after first stage of StackGAN but however it can be used for stage-2 as well.[
+I have used StackGAN to generate images from text. Architecture of StackGAN is as above. I have stopped the process after first stage of StackGAN but however it can be used for stage-2 as well.
 [Link][inde] to the weights generated
 
 
